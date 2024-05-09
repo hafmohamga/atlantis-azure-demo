@@ -8,8 +8,6 @@ REPO_ALLOWLIST="https://github.com/hafmohamga/atlantis-azure-demo" # Replace thi
 
 # Any environment variables required for auth
 # Set up Azure DevOps credentials or other necessary environment variables 
-export AZURE_DEVOPS_URL="https://dev.azure.com/atlantisdemo"  # Replace with your Azure DevOps organization URL
-export AZURE_DEVOPS_TOKEN="dacr4icjnwkorcwnzddg6zmbv4gssbjsywcqz4pvgj2hwyfq6tca"   # Replace with your Azure DevOps Personal Access Token
 
 atlantis server \
 --atlantis-url="$URL" \

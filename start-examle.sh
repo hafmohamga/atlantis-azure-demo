@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-URL="https://8a03-20-49-33-34.ngrok-free.app/"
+URL="https://68fe-172-200-96-113.ngrok-free.app"
 SECRET="7585644023"
 TOKEN="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"
 USERNAME="HAFMOHAMGA"

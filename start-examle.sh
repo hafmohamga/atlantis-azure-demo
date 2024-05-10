@@ -2,7 +2,7 @@
 
 URL="https://68fe-172-200-96-113.ngrok-free.app"
 SECRET="7585644023"
-TOKEN="$TOKEN"
+TOKEN=${{ env.TOKEN }}
 USERNAME="HAFMOHAMGA"
 REPO_ALLOWLIST="github.com/hafmohamga/atlantis-azure-demo" # Replace this with your Azure DevOps repository allowlist
 

@@ -34,5 +34,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-start-examle.sh
 .terraform.lock.hcl

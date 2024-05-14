@@ -1,9 +1,9 @@
 #!/usr/bin/bash
 
-URL="https://68fe-172-200-96-113.ngrok-free.app"
+URL="https://6666-172-176-203-141.ngrok-free.app"
 SECRET="7585644023"
 TOKEN=${{ secrets.TOKEN }}
-USERNAME="HAFMOHAMGA"
+USERNAME="hafmohamga"
 REPO_ALLOWLIST="github.com/hafmohamga/atlantis-azure-demo" # Replace this with your Azure DevOps repository allowlist
 
 # Any environment variables required for auth
